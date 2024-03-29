@@ -4,7 +4,7 @@
 
 # Hi 👋 !
 
-#### I'm [Eduardo Corrêa](https://github.com/Eduzeraa-DEV) e no momento, estou focado em me aprimorar como desenvolvedor de frontend e estou localizado na cidade de Londrina, Brasil.
+#### I'm [Eduardo Corrêa](https://github.com/Eduzeraa-DEV) e no momento, estou focado em me aprimorar como desenvolvedor frontend e estou localizado na cidade de Londrina, Brasil.
 - Adoro aprender algo novo, especialmente coisas relacionadas às pilhas de Frontend.
 
 
