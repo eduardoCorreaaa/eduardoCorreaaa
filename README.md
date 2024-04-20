@@ -43,16 +43,19 @@
 
 ## ⭐ Informações sobre minha conta GitHub
 
-<div align="center">
+<div align="center" style="display: inline-block;">
   <a href="https://github.com/Eduzeraa-DEV">
-    <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Eduzeraa-DEV&theme=radical&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=00acee"/>
+    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Eduzeraa-DEV&theme=radical&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=00acee"/>
   </a>
-  <p>Estatísticas do GitHub</p>
-
-  <a href="https://github.com/Eduzeraa-DEV">
-    <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduzeraa-DEV&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-  <p>Principais Linguagens</p>
+  <p style="text-align: center;">Estatísticas do GitHub</p>
 </div>
+<div align="center" style="display: inline-block;">
+  <a href="https://github.com/Eduzeraa-DEV">
+    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduzeraa-DEV&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+  <p style="text-align: center;">Principais Linguagens</p>
+</div>
+
+
 
  
