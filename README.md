@@ -2,43 +2,69 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=35&duration=3000&pause=1000&color=B2AFAF&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Eduardo;I'm+19+years+old;I'm+FrontEnd+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
-# Hi 👋 !
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+#### I'm [Eduardo Corrêa](https://github.com/Eduzeraa-DEV).. um desenvolvedor front-end focado em aprendizado contínuo e localizado em Londrina, Brasil.
+<ul>
+  <li>Adoro aprender algo novo, especialmente relacionadas às pilhas de Frontend...</li>
+  <li>Além disso, estou aprendendo C#/.NET e Node.js para construir aplicações backend sólidas.</li>
+</ul>
 
-#### I'm [Eduardo Corrêa](https://github.com/Eduzeraa-DEV).. e no momento estou focado em me aprimorar como desenvolvedor frontend e estou localizado na cidade de Londrina, Brasil.
-- Adoro aprender algo novo, especialmente relacionadas às pilhas de Frontend...
+## 🚀 Minhas Skills 
 
+<code><img height="28" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/></code>
+<code><img height="28" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/></code>
+<code><img height="28" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></code>
+<code><img height="28" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></code>
 
-
-### Frontend Technologies
-<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhoOWNodDhrdGtudnI3MnZraHBuZHJnM2w4OHEyM2dpM3N6bmcxbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"
-width="165px"/>
-
+<hr>
+ 
+### Estudando nesse momento: 
+<code><img height="28" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="REACT.JS"/></code>
+<code><img height="28" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/></code>
+<code><img height="28" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft_SQL_Server"/></code>
 <div>
-  <img src ="./images/html-5.svg" alt="HTML5 logo" width="4%" title='HTML5'/>
-  <img src ="./images/css-3.svg" alt="CSS3 logo" width="4%" title='CSS3'/>
-  <img src ="./images/javascript.svg" alt="JavaScript logo" width="5%" title='JavaScript'/>
-
-  ### Studying in this moment: 
-  <img src ="./images/Tailwind_CSS_Logo.svg.png" alt="vue logo" width="5%" title='TailwindCSS'/>
-  <img src ="./images/react.svg" alt="react logo" width="6%" title='React'/>
-  <img src ="./images/vuejs.svg.png" alt="vue logo" width="6%" title='Vue'/>
+<img src ="./images/nodejs.svg" alt="Node logo" width="18%" title='Nodejs'/>
+</div>
+<hr>
   
+## Ferramentas
 
-  ### Tools
-
-<div>
-  <img src ="./images/figma.svg" alt="Figma logo" width="4%" title='Figma'/>
-  <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="6%" title='Visual Studio Code'/>
-  <img src ="./images/git.svg" alt="Git logo" width="12%" title='Git'/>
+<div style="overflow: hidden; white-space: nowrap;">
+  <div style="display: inline-block; animation: moveIcons 5s linear infinite;">
+    <img src ="./images/figma.svg" alt="Figma logo" width="4%" title='Figma'/>
+    <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="6%" title='Visual Studio Code'/>
+    <img src ="./images/git.svg" alt="Git logo" width="12%" title='Git'/>
+  </div>
 </div>
 
+<style>
+  @keyframes moveIcons {
+    0%, 100% { transform: translateX(0%); }
+    70% { transform: translateX(80%); }
+  }
+</style>
 <br>
 <br>
 
-
+## ⭐ Informações sobre minha conta GitHub
 
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Eduzeraa-DEV&theme=github-dark-dimmed&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=660)](https://git.io/streak-stats)
+  <a href="https://github.com/Eduzeraa-DEV">
+    <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Eduzeraa-DEV&theme=radical&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=00acee"/>
+  </a>
+  <p>Estatísticas do GitHub</p>
 
+  <a href="https://github.com/Eduzeraa-DEV">
+    <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduzeraa-DEV&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+  <p>Principais Linguagens</p>
 </div>
+ <style>
+        hr {
+            border: 0;
+            height: 1px;
+            background: linear-gradient(to right, transparent, #ccc, transparent);
+            margin: 20px 0;
+            animation: deslocamento 2s infinite linear;
+        }   
+    </style>
