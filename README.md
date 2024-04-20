@@ -56,6 +56,11 @@
   <p style="text-align: center;">Principais Linguagens</p>
 </div>
 
+#### Contact
+- <a href="https://www.linkedin.com/in/eduardo-corr%C3%AAa-01a462266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<hr>
 
 
+ 
  
