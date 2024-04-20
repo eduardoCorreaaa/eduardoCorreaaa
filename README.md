@@ -1,4 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=767676&height=130&section=header"/>
+<link rel="stylesheet" href="style.css">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=35&duration=3000&pause=1000&color=B2AFAF&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Eduardo;I'm+19+years+old;I'm+FrontEnd+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
@@ -23,7 +24,7 @@
 <code><img height="28" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/></code>
 <code><img height="28" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft_SQL_Server"/></code>
 <div>
-<img src ="./images/nodejs.svg" alt="Node logo" width="18%" title='Nodejs'/>
+<img src ="./images/nodejs.svg" alt="Node logo" width="12%" title='Nodejs'/>
 </div>
 <hr>
   
@@ -37,12 +38,6 @@
   </div>
 </div>
 
-<style>
-  @keyframes moveIcons {
-    0%, 100% { transform: translateX(0%); }
-    70% { transform: translateX(80%); }
-  }
-</style>
 <br>
 <br>
 
@@ -59,12 +54,5 @@
   </a>
   <p>Principais Linguagens</p>
 </div>
- <style>
-        hr {
-            border: 0;
-            height: 1px;
-            background: linear-gradient(to right, transparent, #ccc, transparent);
-            margin: 20px 0;
-            animation: deslocamento 2s infinite linear;
-        }   
-    </style>
+
+ 

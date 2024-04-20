@@ -1,0 +1,12 @@
+ hr {
+            border: 0;
+            height: 1px;
+            background: linear-gradient(to right, transparent, #ccc, transparent);
+            margin: 20px 0;
+            animation: deslocamento 2s infinite linear;
+        }   
+
+  @keyframes moveIcons {
+    0%, 100% { transform: translateX(0%); }
+    70% { transform: translateX(80%); }
+  }
