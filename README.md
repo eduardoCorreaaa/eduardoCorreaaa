@@ -1,7 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=130&section=header"/>
-<link rel="stylesheet" href="style.css">
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=35&duration=3000&pause=1000&color=B2AFAF&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Eduardo;I'm+19+years+old;I'm+FrontEnd+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+
+  
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 #### I'm [Eduardo Corrêa](https://github.com/Eduzeraa-DEV).. um desenvolvedor front-end focado em aprendizado contínuo e localizado em Londrina, Brasil.
@@ -42,19 +44,21 @@
 <br>
 
 ## ⭐ Informações sobre minha conta GitHub
+<div align='center'>
 
-<div align="center" style="display: inline-block;">
-  <a href="https://github.com/Eduzeraa-DEV">
-    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Eduzeraa-DEV&theme=radical&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=00acee"/>
-  </a>
-  <p style="text-align: center;">Estatísticas do GitHub</p>
+<div align="center" style="background-color: #CCCCCC; padding: 10px; border-radius: 10px;">  
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Eduzeraa-DEV&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduzeraa-DEV&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
 </div>
-<div align="center" style="display: inline-block;">
-  <a href="https://github.com/Eduzeraa-DEV">
-    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduzeraa-DEV&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-  <p style="text-align: center;">Principais Linguagens</p>
+
 </div>
+
+<div><br />
+
+
+ 
 
 #### Contact
 - <a href="https://www.linkedin.com/in/eduardo-corr%C3%AAa-01a462266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
