@@ -9,7 +9,7 @@
 #### I'm [Eduardo Corrêa](https://github.com/Eduzeraa-DEV).. um desenvolvedor front-end focado em aprendizado contínuo e localizado em Londrina, Brasil.
 <ul>
   <li>Adoro aprender algo novo, especialmente relacionadas às pilhas de Frontend...</li>
-  <li>Além disso, estou aprendendo C#/.NET e Node.js para construir aplicações backend sólidas.</li>
+  <li>Além disso, estou aprendendo C#/.NET e Node.js para construir aplicações backend sólidas...</li>
 </ul>
 
 ## 🚀 Minhas Skills 
