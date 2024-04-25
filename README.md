@@ -8,11 +8,11 @@
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 #### I'm [Eduardo Corrêa](https://github.com/Eduzeraa-DEV).. um desenvolvedor front-end focado em aprendizado contínuo e localizado em Londrina, Brasil.
 <ul>
-  <li>Adoro aprender algo novo, especialmente relacionadas às pilhas de Frontend...</li>
+  <li>Adoro aprender algo novo, especialmente relacionadas às pilhas de Frontend.</li>
   <li>Além disso, estou aprendendo C#/.NET e Node.js para construir aplicações backend sólidas...</li>
 </ul>
 
-## 🚀 Minhas Skills 
+## 🚀 Minhas Habilidades 
 
 <code><img height="28" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/></code>
 <code><img height="28" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/></code>
