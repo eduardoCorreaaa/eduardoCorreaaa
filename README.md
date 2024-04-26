@@ -12,7 +12,7 @@
   <li>Além disso, estou aprendendo C#/.NET e Node.js para construir aplicações backend sólidas...</li>
 </ul>
 
-## 🚀 Minhas Habilidades 
+## 🚀 Minhas Skills
 
 <code><img height="28" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/></code>
 <code><img height="28" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/></code>
