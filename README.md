@@ -43,7 +43,7 @@
 
 ## ⭐ Informações sobre minha conta GitHub
 
-<div align="center">
+<div class="diplay"> 
   <a href="https://github.com/Eduzeraa-DEV">
     <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Eduzeraa-DEV&theme=radical&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=00acee"/>
   </a>

@@ -10,3 +10,6 @@
     0%, 100% { transform: translateX(0%); }
     70% { transform: translateX(80%); }
   }
+  .display {
+    display: inline-block;
+  }
