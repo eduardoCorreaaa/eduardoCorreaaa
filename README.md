@@ -44,26 +44,13 @@
 <br>
 
 ## ⭐ Informações sobre minha conta GitHub
-<div align='center'>
-
-<<<<<<< HEAD
-<div class="diplay"> 
+<div align="center">
   <a href="https://github.com/Eduzeraa-DEV">
-    <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Eduzeraa-DEV&theme=radical&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=00acee"/>
-  </a>
-  <p>Estatísticas do GitHub</p>
 
-  <a href="https://github.com/Eduzeraa-DEV">
-    <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduzeraa-DEV&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-  <p>Principais Linguagens</p>
-=======
-<div align="center" style="background-color: #CCCCCC; padding: 10px; border-radius: 10px;">  
   
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Eduzeraa-DEV&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduzeraa-DEV&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
->>>>>>> 22c6fe15263fd491f769d896a99b9995f1a4c739
 </div>
 
 </div>
