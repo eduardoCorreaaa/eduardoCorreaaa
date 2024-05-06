@@ -6,7 +6,7 @@
   
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
-#### I'm [Eduardo Corrêa](https://github.com/Eduzeraa-DEV).. um desenvolvedor front-end localizado em Londrina, Brasil.
+#### I'm [Eduardo Corrêa](https://github.com/Eduzeraa-DEV).. um desenvolvedor front-end localizado em Londrina PR, Brasil.
 <ul>
   <li>Sempre aprendendo algo novo, especialmente relacionadas às pilhas de Frontend.</li>
   <li>Além disso, estou aprendendo C#/.NET e Node.js para construir aplicações backend sólidas.</li>
