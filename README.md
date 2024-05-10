@@ -9,7 +9,7 @@
 #### I'm [Eduardo Corrêa](https://github.com/correaDEV).. um desenvolvedor front-end localizado em Londrina PR, Brasil.
 <ul>
   <li>Sempre aprendendo algo novo, especialmente relacionadas às pilhas de Frontend.</li>
-  <li>Além disso, estou aprendendo C#/.NET e Node.js para construir aplicações backend sólidas.</li>
+  <li>Além disso, estou aprendendo .NET e Node.js para construir aplicações backend sólidas.</li>
 </ul>
 
 ## 🚀 Minhas Skills
