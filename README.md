@@ -22,9 +22,11 @@
 <hr>
  
 ### Estudando nesse momento: 
+<div class="Color"> 
 <code><img height="28" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="REACT.JS"/></code>
 <code><img height="28" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/></code>
 <code><img height="28" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft_SQL_Server"/></code>
+ </div>
 <div>
 <img src ="./images/nodejs.svg" alt="Node logo" width="12%" title='Nodejs'/>
 </div>
@@ -48,9 +50,9 @@
   <a href="https://github.com/correaDEV">
 
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Eduzeraa-DEV&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=correaDEV&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff1" /> 
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduzeraa-DEV&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  <img width="50%" height="195px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=correaDEV&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
 </div>
 
 </div>
