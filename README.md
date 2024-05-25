@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=130&section=header"/>
 
 
-<h2 align="left">👋 Olá, bem-vindo ao meu perfil no Github</h2>
+<h2 align="left">👋 Hello, welcome to my Github profile</h2>
 
 ###
 
