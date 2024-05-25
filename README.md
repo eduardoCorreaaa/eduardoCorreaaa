@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">Content creator at</p>
+<p align="left">Content creator at <a href="https://www.instagram.com/_eduzeraa?igsh=MWhheXVpazlrYnAxZw==" target="_blank">@Eduardo Correa</a></p>
 
 ###
 
