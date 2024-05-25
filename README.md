@@ -89,9 +89,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/correaDEV/correaDEV/output/snake.svg" alt="Snake animation" />
 
-###
 
 
  
