@@ -45,7 +45,7 @@
 
 ###
 
-<h2 align="left">Technologies I'm studying</h2>
+<h2 align="left">I'm currently learning</h2>
 
 ###
 
@@ -64,6 +64,7 @@
 </div>
 
 ###
+<h2 align="left">My Stats</h2>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=correaDEV&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=nord&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
