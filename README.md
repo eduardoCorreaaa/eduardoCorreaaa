@@ -13,10 +13,6 @@
 
 ###
 
-<p align="left">Content creator at <a href="https://www.instagram.com/_eduzeraa?igsh=MWhheXVpazlrYnAxZw==" target="_blank">@Eduardo Correa</a></p>
-
-###
-
 <p align="left">Studying backend</p>
 
 ###
