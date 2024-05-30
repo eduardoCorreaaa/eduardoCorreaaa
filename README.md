@@ -13,10 +13,6 @@
 
 ###
 
-<p align="left">Content creator at</p>
-
-###
-
 <p align="left">Studying backend</p>
 
 ###
