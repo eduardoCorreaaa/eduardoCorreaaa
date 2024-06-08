@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">My name is Eduardo Correa, and I'm a developer passionate about programming, from Londrina, Brazil 🇧🇷</p>
+<p align="left">My name is Eduardo Correa, from Londrina, Brazil 🇧🇷</p>
 
 ### 
 
@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">Studying backend</p>
+<p align="left">I have practical knowledge in frontend development and currently migrating to backend, aiming to become a fullstack developer</p>
 
 ###
 
