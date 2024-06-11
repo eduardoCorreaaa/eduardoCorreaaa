@@ -22,7 +22,6 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
   <img width="12" />
