@@ -12,19 +12,19 @@
 
 <div align="left">
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="20" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="20" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="20" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="20" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="20" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="35" alt="git logo"  />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="20" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="20" alt="github logo"  />
 </div>
 
 ###
