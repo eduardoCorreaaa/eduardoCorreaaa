@@ -1,6 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=130&section=header"/> 
-
-
 <h2 align="left">👋 Hello, welcome to my Github profile</h2>
 
 ###
@@ -67,8 +64,6 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=correaDEV&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=prussian&locale=en&hide_border=false&order=1" height="120" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=correaDEV&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=prussian&hide_border=false&order=2" height="120" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=correaDEV&radius=16&theme=nord&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
 
 ###
 
@@ -80,11 +75,6 @@
   <a href="https://www.linkedin.com/in/eduardo-corr%C3%AAa-01a462266/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/_eduzeraa?igsh=MWhheXVpazlrYnAxZw==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
-  </a>
-</div>
-
-###
+  <
 
  
