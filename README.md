@@ -11,19 +11,19 @@
 ###
 
 <div align="left">
-  <img width="12" />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=ts" height="20" alt="typescript logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=js" height="20" alt="javascript logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="20" alt="tailwindcss logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=css" height="20" alt="css3 logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=html" height="20" alt="html5 logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="20" alt="git logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=github" height="20" alt="github logo"  />
 </div>
 
@@ -34,17 +34,17 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=angular" height="20" alt="angularjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="20" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="20" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="20" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="20" alt="docker logo"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="25" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="25" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="25" alt="postgresql logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=docker" height="25" alt="docker logo"  />
+  <img width="15" />
 </div>
 
 ###
