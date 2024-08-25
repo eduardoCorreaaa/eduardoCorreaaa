@@ -6,14 +6,6 @@
 
 ### 
 
-<h2 align="left">About Me</h2>
-
-###
-
-<p align="left">I have practical knowledge in frontend development and currently migrating to backend, aiming to become a fullstack developer</p>
-
-###
-
 <h2 align="left">My Techs</h2>
 
 ###
