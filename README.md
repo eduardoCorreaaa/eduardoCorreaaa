@@ -2,29 +2,36 @@
 
 ###
 
-<p align="left">My name is Eduardo Correa, from Londrina, Brazil 🇧🇷</p>
+<p align="left">My name is Eduardo Correa, and I'm a Frontend Developer, from Londrina, Brazil 🇧🇷</p>
 
-### 
+###
+
+<div align="left">
+  <img height="101" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTMxbzJlajRqZzAydG90c2prejBxMzhyZWFncHBiZWg3ejQ1ZjNvbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+</div>
+
+###
 
 <h2 align="left">My Techs</h2>
 
 ###
 
 <div align="left">
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=ts" height="20" alt="typescript logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=js" height="20" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="20" alt="tailwindcss logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=css" height="20" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=html" height="20" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="20" alt="git logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=github" height="20" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
 </div>
 
 ###
@@ -33,29 +40,34 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=angular" height="25" alt="angularjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="25" alt="mysql logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="25" alt="postgresql logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=docker" height="25" alt="docker logo"  />
-  <img width="15" />
+  <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
 </div>
 
 ###
 
-<h2 align="left">My Stats</h2>
-
-###
+<br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=correaDEV&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=prussian&locale=en&hide_border=false&order=1" height="120" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=correaDEV&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=prussian&hide_border=false&order=2" height="120" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=correaDEV&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=moltack&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=correaDEV&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=moltack&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 ###
 
@@ -67,6 +79,6 @@
   <a href="https://www.linkedin.com/in/eduardo-corr%C3%AAa-01a462266/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
   </a>
-  <
+  
 
  
