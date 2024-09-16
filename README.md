@@ -1,40 +1,17 @@
-<img align="right" height="180" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"  />
+<img align="right" height="140" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"  />
 
 ###
 
-<h2 align="left">👋 Hello, welcome to my Github profile</h2>
+## <samp>Hello World!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px">
 
 ###
 
-<p align="left">My name is Eduardo Correa, and I'm a Frontend Developer, from Londrina, Brazil 🇧🇷</p>
+<samp>Sou Eduardo correa, sou brasileiro e moro em londrina PR, atualmente estou estudando fortes tecnologias do mercado para me tornar um desenvolvedor Fullstack, gosto de ajudar e aprender.
+Sou apaixonado por resolver problemas com tecnologia e criar soluções diferentes.
 
 ###
 
-<h2 align="left">Technical Skills.</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-</div>
-
-###
-
-<h2 align="left">Studying...</h2>
+<h2 align="left">Estudando...</h2>
 
 ###
 
