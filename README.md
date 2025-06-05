@@ -8,7 +8,7 @@ Gosto de aprender novas tecnologias, criar soluções práticas e desenvolver si
 
 ---
 
-## 🧠 Atualmente estudando
+## 🧠 Estudando.
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo" />
