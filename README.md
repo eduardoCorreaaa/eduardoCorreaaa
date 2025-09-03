@@ -4,7 +4,7 @@ Atualmente estou focado nos estudos em **C# e .NET**, com o objetivo de me torna
 
 Tenho noções de **Java**, com alguns projetos pessoais, e busco constantemente evoluir minhas habilidades técnicas através da prática e do aprendizado contínuo.
 
----
+-------
 
 ## 📚 Estudando
 
