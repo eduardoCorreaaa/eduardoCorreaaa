@@ -1,7 +1,7 @@
 ## 👋 Olá, eu sou o Eduardo!
 
 Atualmente estou focado nos estudos em **C# e .NET**, com o objetivo de me tornar um desenvolvedor.
--------
+----------
 
 ## 📚 Estudando
 
