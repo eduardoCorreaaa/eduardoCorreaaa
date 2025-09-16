@@ -23,7 +23,7 @@ Atualmente estou focado nos estudos em **C# e .NET**, com o objetivo de me torna
 
 ## 📫 Contato
 
-- 📧 eduzeraaoficial@gmail.com
+- 📧 em.correaa@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-corr%C3%AAa-01a462266/)
 
 
